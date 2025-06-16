@@ -1,3 +1,5 @@
+![ESP32 Pinout](esp32-pinout.jpg.webp)
+
 # ESP32 Sensor Data Logger Project – Full Setup & Methodology Guide
 
 ## 🔍 What This Is
